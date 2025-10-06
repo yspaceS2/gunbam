@@ -11,20 +11,14 @@
 # -----------------
 en: &DEFAULT_EN
   nav:
-    - title: "Services"
+    - title: "고양이의 미학"
       section: services
-    - title: "Portfolio"
+    - title: "고양이의 간택"
       section: portfolio
-    - title: "About"
+    - title: "고양이에 대하여"
       section: about
-    - title: "Timeline"
-      section: timeline
-    - title: "Team"
-      section: team
     - title: "Contact"
       section: contact
-    - title: "Theme Source"
-      url: https://github.com/raviriley/agency-jekyll-theme/
 
 en-001: #English (World)
   <<: *DEFAULT_EN
