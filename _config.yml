@@ -13,7 +13,7 @@
 
 theme: jekyll-agency
 
-url    : "https://yspaces2.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url    : "https://yspaceS2.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "/gunbam" # the subpath of your site, e.g. /blog
 
 title      : Study Group
